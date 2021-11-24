@@ -3,20 +3,16 @@ function nachsterTag(wochentag) {
     console.log("Dienstag");
 }
 if(wochentag == "Dienstag"){
-    console.log("Mittwoch");    
+    console.log("Mittwoch");}    
 if(wochentag == "Mittwoch"){
-    console.log("Donerstag");
+    console.log("Donerstag");}
 if(wochentag == "Donerstag"){
-    console.log("Freitag");
+    console.log("Freitag");}
 if(wochentag == "Freitag"){
-    console.log("Samstag")
+    console.log("Samstag")}
 if(wochentag == "Samstag"){
-    console.log("Sonntag")
-} 
-}    
-}    
-}    
-}
+    console.log("Sonntag")}
+
 }
 
 nachsterTag("Montag"); 
