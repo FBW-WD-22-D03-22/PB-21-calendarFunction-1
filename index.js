@@ -1,33 +1,30 @@
-function nächsterTag(a, b, c, d, e, f, g){
-    
-}
 
-
-
-
-function wochentage( a, b, c, d, e, f, g) {
-    if(a){
-        return (b)}
-    if (b){
-        return (c)}
-    if(c){
-        return (d)}
-    if(d){
-        return (e)}
-    if(e){
-        return(f)}
-    if(f){
-        return(g)}
-    if(g)
-        return("Spaßtag")
-    else{
-        console.log("Hallo")
+function nächsterTag(wochentag) {
+    if(wochentag == "Montag" ){
+       console.log("Dienstag");
     }
+    if (wochentag == "Dienstag"){
+        console.log ("Mittwoch");
+    }
+    if(wochentag == "Mittwoch"){
+        console.log ("Donnerstag");
+    }
+    if(wochentag == "Donnerstag"){
+        console.log ("Freitag");
+    }
+    if(wochentag == "Freitag"){
+        console.log("Samstag");
+    }
+    if(wochentag == "Samstag"){
+        console.log("Sonntag");
+    }
+    if(wochentag == "Sonntag")
+    console.log("Spaßtag")
 }
 
 
 
 
-wochentage("Montag");
+nächsterTag("Montag");
 
 
