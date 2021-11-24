@@ -19,7 +19,11 @@ Beispiel: Die Funktion wird mit dem Wochentag "Spaßtag" ausgeführt -> Das Erge
 
 // Ausführung
 nextDay("Montag"); // In der Konsole erscheint "Dienstag"
+
 nextDay("Dienstag"); // In der Konsole erscheint "Mittwoch"
+
 nexDay("Mittwoch"); In der Konsole erscheint "Donnerstag"
+
 ..und so weiter..
+
 nextDay("blabla"); // In der Konsole erscheint "Unsinnstag"
