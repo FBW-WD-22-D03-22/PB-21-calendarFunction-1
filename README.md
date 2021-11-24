@@ -18,11 +18,12 @@ Beispiel: Die Funktion wird mit dem Wochentag "Spaßtag" ausgeführt -> Das Erge
 // TODO: Funktion schreiben
 
 // Ausführung
+
 nextDay("Montag"); // In der Konsole erscheint "Dienstag"
 
 nextDay("Dienstag"); // In der Konsole erscheint "Mittwoch"
 
-nexDay("Mittwoch"); In der Konsole erscheint "Donnerstag"
+nexDay("Mittwoch"); // In der Konsole erscheint "Donnerstag"
 
 ..und so weiter..
 
