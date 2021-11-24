@@ -6,5 +6,5 @@ Beispiel: Die Funktion wird mit dem Wochentag Montag ausgeführt -> Das Ergebnis
 Beispiel: Die Funktion wird mit dem Wochentag Sonntag ausgeführt -> Das Ergebnis ist Montag.
 
 ## Aufgabenstellung - Teil 2
-Im Moment kann deine Funktion nur gültige Wochentage annehmen. Erweitere deine Funktion so, dass sie "Unsinnstag" als Ergebnis ausschreibt, dass der Parameter mit einem ungültigen Wochentag ausgeführt wird.
+Im Moment kann deine Funktion nur c Wochentage annehmen. Erweitere deine Funktion so, dass sie "Unsinnstag" als Ergebnis ausschreibt, dass der Parameter mit einem ungültigen Wochentag ausgeführt wird.
 Beispiel: Die Funktion wird mit dem Wochentag "Spaßtag" ausgeführt -> Das Ergebnis ist "Unsinnstag".
